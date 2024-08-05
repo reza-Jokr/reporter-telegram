@@ -40,8 +40,8 @@ print (t)
 
 number = input(f"{gn}Enter Number : {cn}")
 if number == "1":
-    os.system("python report/reporter.py")
+    os.system("python reporter.py")
 if number == "2":
-	os.system("python report/report.py")
+	os.system("python report.py")
 elif number == "3":
     print ("This section is being updated and will be added soon \n\n𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 : IMPOSR")
